@@ -4,7 +4,7 @@ Remember when everybody and their mother was using TextMate for Ruby on
 Rails development?  Well if it wasn't for rails.vim, we'd still be in
 that era.  So shut up and pay some respect.  And check out these
 features:
-
+i change that
 * Easy navigation of the Rails directory structure.  `gf` considers
   context and knows about partials, fixtures, and much more.  There are
   two commands, `:A` (alternate) and `:R` (related) for easy jumping
